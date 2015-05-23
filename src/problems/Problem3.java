@@ -1,4 +1,4 @@
-package com.example;
+package problems;
 
 import java.util.Vector;
 

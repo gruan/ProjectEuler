@@ -1,4 +1,4 @@
-package com.example;
+package problems;
 
 /**
  * Created by george on 5/22/15.
