@@ -52,6 +52,6 @@ public class Problem4
             }
         }
 
-        System.out.println("The max palindrome of two 2-digit numbers is - " + maxPalindrome);
+        System.out.println("The max palindrome of two 3-digit numbers is - " + maxPalindrome);
     }
 }
