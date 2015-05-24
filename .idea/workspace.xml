@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7e3e7b1-8cef-43c2-a814-5d86f3e2a6e3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/problems/Problem8.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/problems/Problem9.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="ProjectEuler.iws" />
@@ -30,33 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Problem6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problems/Problem6.java">
+      <file leaf-file-name="Problem9.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/problems/Problem9.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="34" column="8" selection-start-line="34" selection-start-column="8" selection-end-line="34" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem7.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/problems/Problem7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Problem8.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/problems/Problem8.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.35714287">
-              <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.41326532">
+              <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -96,6 +74,7 @@
         <option value="$PROJECT_DIR$/src/problems/Problem6.java" />
         <option value="$PROJECT_DIR$/src/problems/Problem7.java" />
         <option value="$PROJECT_DIR$/src/problems/Problem8.java" />
+        <option value="$PROJECT_DIR$/src/problems/Problem9.java" />
       </list>
     </option>
   </component>
@@ -190,27 +169,7 @@
     <property name="restartRequiresConfirmation" value="true" />
     <property name="FullScreen" value="false" />
   </component>
-  <component name="RunManager" selected="Application.Problem8">
-    <configuration default="false" name="Problem5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="problems.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="problems.Problem5" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="ProjectEuler" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Problem9">
     <configuration default="false" name="Problem4 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -279,6 +238,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="problems.Problem8" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ProjectEuler" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Problem9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="problems.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="problems.Problem9" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -439,19 +418,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.Problem5" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Problem4 (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Problem6" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Problem7" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Problem8" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Problem4 (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Problem6" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Problem7" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Problem8" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Problem9" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Problem8" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Problem7" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Problem6" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Problem4 (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Problem5" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Problem9" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Problem8" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Problem7" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Problem6" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Problem4 (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -508,12 +487,18 @@
       <option name="project" value="LOCAL" />
       <updated>1432496053002</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Problem 8">
+      <created>1432499285605</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1432499285605</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="730" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -558,7 +543,8 @@
     <MESSAGE value="Reformatted pathing" />
     <MESSAGE value="Problem 5" />
     <MESSAGE value="Problem 7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Problem 7" />
+    <MESSAGE value="Problem 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Problem 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -716,8 +702,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/problems/Problem8.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35714287">
+        <state vertical-scroll-proportion="0.23372287">
           <caret line="40" column="16" selection-start-line="40" selection-start-column="16" selection-end-line="40" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/problems/Problem9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41326532">
+          <caret line="45" column="20" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
           <folding />
         </state>
       </provider>
